@@ -1,4 +1,4 @@
-# Projeto de Layout CSS - Trilha de CSS da DIO 🚀
+# Landing Page com HTML e CSS - Trilha de CSS da DIO 🚀
 
 Este projeto foi desenvolvido como parte da *Trilha de CSS* oferecida pela [DIO](https://dio.me) em parceria com a Ri Happy. O objetivo é criar um layout visualmente atraente e responsivo utilizando apenas **HTML** e **CSS**, sem bibliotecas externas.
 
